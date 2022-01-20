@@ -30,7 +30,7 @@
                             <h4>CONTACT INFO:</h4>
                             <p> <a href="tel://7988929968" class="contact-icon">Phone: +91 7988929968</a>
                                 <br> <a href="tel://7988929968" class="contact-icon">Mobile: +91 7988929968</a>
-                                <br> <a href="mailto:core2creations@gmail.com" class="contact-icon">Email: core2creations@gmail.com</a> </p>
+                                <br> <a href="mailto:info@core2creations.com" class="contact-icon">Email: info@core2creations.com</a> </p>
                         </div>
                         
                     </div>

@@ -66,7 +66,7 @@
                 	</p>
 
                     <p>Phone: <a href="#!">+91 7988929968</a></p>
-                    <p>Email: <a href="#!">core2creations@gmail.com</a></p>
+                    <p>Email: <a href="#!">info@core2creations.com</a></p>
                 </div>
                 <!-- <div class="col-md-4">
                     <h4>DOWNLOAD OUR FREE MOBILE APPS</h4>
