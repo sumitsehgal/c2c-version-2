@@ -20,7 +20,7 @@
                                     <div class="ed-ad-dec">
                                         <h4>Awards</h4>
                                         <p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi bibendum imperdiet bibendum.</p>
-                                        <a href="awards.html">Read more</a>
+                                        <!-- <a href="#">Read more</a> -->
                                     </div>
                                 </li>
                                 <li>
@@ -30,7 +30,7 @@
                                     <div class="ed-ad-dec">
                                         <h4>Research</h4>
                                         <p>tiam eget enim non magna vestibulum malesuada ut et lectus. Curabitur egestas risus massa, a malesuada erat ultrices non.</p>
-                                        <a href="research.html">Read more</a>
+                                        <!-- <a href="research.html">Read more</a> -->
                                     </div>
                                 </li>
                                 <li>
@@ -40,7 +40,7 @@
                                     <div class="ed-ad-dec">
                                         <h4>Educations</h4>
                                         <p>Maecenas venenatis, turpis ac tincidunt convallis, leo enim ultrices tortor, at faucibus neque sapien ac elit. Curabitur ut ipsum odio.</p>
-                                        <a href="all-courses.html">Read more</a>
+                                        <!-- <a href="all-courses.html">Read more</a> -->
                                     </div>
                                 </li>
                                 <li>
@@ -50,7 +50,7 @@
                                     <div class="ed-ad-dec">
                                         <h4>Alumni</h4>
                                         <p>Aliquam malesuada commodo lectus, at fermentum ligula finibus eu. Morbi nisi neque, suscipit non pulvinar vitae.</p>
-                                        <a href="awards.html">Read more</a>
+                                        <!-- <a href="awards.html">Read more</a> -->
                                     </div>
                                 </li>
                                 <li>
@@ -60,7 +60,7 @@
                                     <div class="ed-ad-dec">
                                         <h4>Facilities</h4>
                                         <p>Maecenas venenatis, turpis ac tincidunt convallis, leo enim ultrices tortor, at faucibus neque sapien ac elit. Curabitur ut ipsum odio.</p>
-                                        <a href="facilities.html">Read more</a>
+                                        <!-- <a href="facilities.html">Read more</a> -->
                                     </div>
                                 </li>
                                 <li>
@@ -70,7 +70,7 @@
                                     <div class="ed-ad-dec">
                                         <h4>Departments</h4>
                                         <p>Maecenas venenatis, turpis ac tincidunt convallis, leo enim ultrices tortor, at faucibus neque sapien ac elit. Curabitur ut ipsum odio.</p>
-                                        <a href="departments.html">Read more</a>
+                                        <!-- <a href="departments.html">Read more</a> -->
                                     </div>
                                 </li>
                             </ul>

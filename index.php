@@ -10,15 +10,15 @@
                     <div class="carousel-caption slider-con">
                         <h2>Welcome to <span>Core2Creations</span></h2>
                         <p>Today, we look ahead towards a new Academic Year that may one day be known as a redefining moment in your life, that of this noble institution, and the region at large.</p>
-                        <a href="#" class="bann-btn-1">All Courses</a><a href="#" class="bann-btn-2">Read More</a>
+                        <a href="/courses.php" class="bann-btn-1">All Courses</a><a href="/courses.php" class="bann-btn-2">Read More</a>
                     </div>
                 </div>
                 <div class="item">
                     <img src="images/slider/2.jpg" alt="">
                     <div class="carousel-caption slider-con">
-                        <h2>Admission open <span>2018</span></h2>
+                        <h2>Admission open <span>2022</span></h2>
                         <p>In education, technology can be a life-changer, a game changer, for kids who are both in school and out of school. Technology can bring textbooks to life. The Internet can connect students to their peers in other parts of the world. It can bridge the quality gaps.</p>
-                        <a href="#" class="bann-btn-1">Admission</a><a href="#" class="bann-btn-2">Read More</a>
+                        <a href="/contact-us.php" class="bann-btn-1">Admission</a><a href="/contact-us.php" class="bann-btn-2">Read More</a>
                     </div>
                 </div>
                 <div class="item">
@@ -26,7 +26,7 @@
                     <div class="carousel-caption slider-con">
                         <h2> <span>Core2Creations</span></h2>
                         <p>Core2Creations LLP is an organisation that provides Education, IT services, Consulting and Business solutions. It will cover all levels of education including basics to advance.</p>
-                        <a href="#" class="bann-btn-1">All Courses</a><a href="#" class="bann-btn-2">Read More</a>
+                        <a href="/courses.php" class="bann-btn-1">All Courses</a><a href="/courses.php" class="bann-btn-2">Read More</a>
                     </div>
                 </div>
             </div>
@@ -78,7 +78,7 @@
                 <div class="ed-course">
                     <div class="col-md-3 col-sm-4 col-xs-12">
                         <div class="ed-course-in">
-                            <a class="course-overlay" href="about.html">
+                            <a class="course-overlay" href="/about.php">
                                 <img src="images/h-about.jpg" alt="">
                                 <span>Academics</span>
                             </a>
@@ -86,7 +86,7 @@
                     </div>
                     <div class="col-md-3 col-sm-4 col-xs-12">
                         <div class="ed-course-in">
-                            <a class="course-overlay" href="admission.html">
+                            <a class="course-overlay" href="/contact-us.php">
                                 <img src="images/h-adm1.jpg" alt="">
                                 <span>Admission</span>
                             </a>
@@ -94,7 +94,7 @@
                     </div>
                     <div class="col-md-3 col-sm-4 col-xs-12">
                         <div class="ed-course-in">
-                            <a class="course-overlay" href="all-courses.html">
+                            <a class="course-overlay" href="courses.php">
                                 <img src="images/h-about1.jpg" alt="">
                                 <span>Course</span>
                             </a>
@@ -102,9 +102,9 @@
                     </div>
                     <div class="col-md-3 col-sm-4 col-xs-12">
                         <div class="ed-course-in">
-                            <a class="course-overlay" href="seminar.html">
+                            <a class="course-overlay" href="contact-us.php">
                                 <img src="images/h-cam1.jpg" alt="">
-                                <span>Seminar 2018</span>
+                                <span>Seminar 2022</span>
                             </a>
                         </div>
                     </div>
@@ -163,7 +163,7 @@
                             <div class="col-md-3"> <img src="images/html.png" alt=""> </div>
                             <!--POPULAR COURSES: CONTENT-->
                             <div class="col-md-9 home-top-cour-desc">
-                                <a href="course-details.html">
+                                <a href="#">
                                     <h3>Web Designing</h3>
                                 </a>
                                 <h4>Technology / Web / Design</h4>
@@ -189,7 +189,7 @@
                             <div class="col-md-3"> <img src="images/php.png" alt=""> </div>
                             <!--POPULAR COURSES: CONTENT-->
                             <div class="col-md-9 home-top-cour-desc">
-                                <a href="course-details.html">
+                                <a href="#">
                                     <h3>Web Development</h3>
                                 </a>
                                 <h4>Technology / Web / PHP</h4>
