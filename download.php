@@ -35,14 +35,12 @@ if($_SERVER["REQUEST_METHOD"] == "POST") {
             }
 
 
-        }else {
-            $errorCode = 404;
         }
 
     }
 
 }
-
+$errorCode = 404;
 header("Location:/result.php?errorcode=".$errorCode);
 exit;
 
